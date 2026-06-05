@@ -32,15 +32,20 @@ The project demonstrates core Python concepts such as:
 
 ---
 
+
 ## 📂 Project Structure
 
 ```bash
 PR. 3 Collection Manipulator
 ├── PR. 3 Collection Manipulator.py
-└── README.md
+├── README.md
+├── ss1.png
+├── ss2.png
+├── ss3.png
+└── Explanation Video.mp4
 ```
 
----
+If the video is large, host it externally (YouTube, Drive) or use Git LFS instead of committing the raw file.
 
 ## ▶️ How the Program Works
 
